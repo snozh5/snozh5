@@ -4,8 +4,8 @@
 
 I am a Computer Science Graduate having Diploma in Data Science, skilled in Python to solve data driven problems.
 
-***Languages & Frameworks:*** Python, C, Java, HTML/CSS, SQL 
-***Packages:*** Scikit-Learn, NumPy, SciPy, Seaborn, Pandas, Matplotlib ***Statistics/ML:*** Linear/Logistic Regression, Redge/Lasso Regularization, SVM, Random Forests 
+***Languages & Frameworks:*** Python, C, Java, HTML/CSS, SQL <br>
+***Packages:*** Scikit-Learn, NumPy, SciPy, Seaborn, Pandas, Matplotlib ***Statistics/ML:*** Linear/Logistic Regression, Redge/Lasso Regularization, SVM, Random Forests <br>
 ***Software:*** Tableau, Microsoft Office, MATLAB, Adobe Photoshop 
 
 
