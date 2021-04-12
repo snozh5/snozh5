@@ -7,7 +7,7 @@ I am a Computer Science Graduate having Diploma in Data Science, skilled in Pyth
 ***Languages & Frameworks:*** Python, C, Java, HTML/CSS, SQL <br>
 ***Packages:*** Scikit-Learn, NumPy, SciPy, Seaborn, Pandas, Matplotlib <br>
 ***Statistics/ML:*** Linear/Logistic Regression, Redge/Lasso Regularization, SVM, Random Forests <br>
-***Software:*** Tableau, Microsoft Office, MATLAB, Adobe Photoshop 
+***Software:*** Tableau, Microsoft Office, MATLAB, Adobe Photoshop, Adobe After Effects, Adobe Premiere Pro
 
 - 💬 Talk to me about Data Science, Machine Learning, Cricket and Football  
 - ⚡ Fun fact: Amateur Photographer 🌼
