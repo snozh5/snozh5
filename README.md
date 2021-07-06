@@ -10,7 +10,7 @@ I am a Computer Science Graduate having Diploma in Data Science, skilled in Pyth
 ***Software:*** Tableau, Microsoft Office, MATLAB, Adobe Photoshop, Adobe After Effects, Adobe Premiere Pro
 
 - 💬 Talk to me about Data Science, Machine Learning, Cricket and Football  
-- ⚡ Fun fact: Amateur Photographer 🌼
+- ⚡ Fun: Amateur Photographer 🌼
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/snozh5)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/syedhaque5/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/snozh/)  
